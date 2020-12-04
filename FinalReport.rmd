@@ -20,7 +20,7 @@ Is belief in the bigbang theory (BIGBANG) independent of belief in an afterlife 
   
 $H_0$:The Null hypothesis is that there is no relationship between belief in the (BigBang) theory and belief in the afterlife (PostLife)
   
-$H_a$:
+$H_a$:The Alternative hypothesis is that there is a relationship between belief in the (BigBang) theory and belief in the afterlife (PostLife)
   
 # Methods
 
@@ -68,7 +68,7 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-The p-value is more than 0.05 so we accept the null hypothesis
+The p-value is more than 0.05 so we accept the null hypothesis that there is no relationship between belief in the (BigBang) theory and belief in the afterlife (PostLife).
 
 # Discussion and Conclusion
 
