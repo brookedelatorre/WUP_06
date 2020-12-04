@@ -74,5 +74,5 @@ The p-value is more than 0.05 so we accept the null hypothesis that there is no 
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-
+The p-value is more than 0.05 so we accept the null hypothesis that there is no relationship between belief in the (BigBang) theory and belief in the afterlife (PostLife).This concludes that believing in the bigbang theory does not influence belief in postlife;both are independent factors.
 
